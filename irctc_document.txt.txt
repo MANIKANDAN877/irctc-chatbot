@@ -1,0 +1,110 @@
+
+IRCTC CUSTOMER SUPPORT KNOWLEDGE BASE
+
+Company:
+IRCTC (Indian Railway Catering and Tourism Corporation) is a Government of India enterprise that provides online railway ticket booking, catering, tourism, and related services.
+
+========================
+TICKET BOOKING
+========================
+
+Q: How can I book a train ticket?
+A: Log in to your IRCTC account, search for trains, select a train and class, enter passenger details, make payment, and receive a booking confirmation.
+
+Q: What documents are required during travel?
+A: Passengers should carry a valid government-issued photo ID.
+
+Q: Can I book tickets for others?
+A: Yes, provided correct passenger details are entered.
+
+Q: What is e-ticket?
+A: An electronic ticket booked through the IRCTC website or mobile application.
+
+Q: What is i-ticket?
+A: A physical ticket delivered to the passenger's address where available.
+
+========================
+ACCOUNT MANAGEMENT
+========================
+
+Q: How do I create an IRCTC account?
+A: Visit the IRCTC website or app and complete the registration process.
+
+Q: I forgot my password.
+A: Use the "Forgot Password" option on the login page.
+
+Q: How do I update my profile?
+A: Log in and use the profile management section.
+
+========================
+CANCELLATION AND REFUNDS
+========================
+
+Q: How can I cancel my ticket?
+A: Log in, go to Booked Tickets, select the ticket, and choose Cancel Ticket.
+
+Q: When will I receive my refund?
+A: Refund timelines depend on the payment method and railway rules.
+
+Q: Can a partially used ticket be cancelled?
+A: Applicable rules depend on railway cancellation policies.
+
+========================
+WAITLIST AND RAC
+========================
+
+Q: What is RAC?
+A: Reservation Against Cancellation allows travel with shared accommodation until full berth allocation.
+
+Q: What is a waitlisted ticket?
+A: A ticket awaiting confirmation due to unavailable seats.
+
+Q: How can I check PNR status?
+A: Use the PNR enquiry feature on the IRCTC platform.
+
+========================
+PAYMENTS
+========================
+
+Q: Which payment methods are accepted?
+A: UPI, net banking, debit cards, credit cards, and supported wallets.
+
+Q: My payment was deducted but ticket not booked.
+A: Wait for system reconciliation. If booking fails, the refund is generally processed automatically according to applicable timelines.
+
+========================
+TOURISM SERVICES
+========================
+
+Q: Does IRCTC provide tour packages?
+A: Yes, IRCTC offers domestic and international tourism packages.
+
+Q: Does IRCTC offer hotel booking?
+A: Yes, hotel booking services may be available through IRCTC platforms.
+
+========================
+MEALS AND CATERING
+========================
+
+Q: Can meals be ordered online?
+A: Yes, meal ordering services may be available for selected trains and stations.
+
+Q: Can I choose meal preferences?
+A: Availability depends on train and service provider options.
+
+========================
+GENERAL GUIDELINES
+========================
+
+1. Always provide polite responses.
+2. Use only information present in this knowledge base.
+3. If information is unavailable, respond:
+   "The requested information is not available in the current knowledge base."
+4. Never guess answers.
+5. Never provide unofficial railway policies.
+
+Sample Greeting:
+"Welcome to IRCTC Customer Support. How may I assist you today?"
+
+Sample Fallback:
+"The requested information is not available in the current knowledge base."
