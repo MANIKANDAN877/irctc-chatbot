@@ -4,8 +4,6 @@ from google import genai
 st.set_page_config(page_title="IRCTC Assistant", page_icon="🚆")
 st.title("🚆 IRCTC Customer Service")
 
-API_KEY = st.secrets["GEMINI_API_KEY"]
-
 with open("irctc_document.txt.txt", "r", encoding="utf-8") as f:
     kb = f.read()
 
@@ -31,13 +29,13 @@ if user_input := st.chat_input("Ask your IRCTC question..."):
     with st.chat_message("user"):
         st.write(user_input)
 
-    client = genai.Client(api_key=API_KEY)
-    chat = client.chats.create(
-        model="gemini-2.5-flash",
-        config={"system_instruction": prompt}
-    )
-    response = chat.send_message(user_input)
-    reply = response.text
+    with genai.Client(api_key=st.secrets["GEMINI_API_KEY"]) as client:
+        chat = client.chats.create(
+            model="gemini-2.5-flash",
+            config={"system_instruction": prompt}
+        )
+        response = chat.send_message(user_input)
+        reply = response.text
 
     st.session_state.messages.append({"role": "assistant", "content": reply})
     with st.chat_message("assistant"):
